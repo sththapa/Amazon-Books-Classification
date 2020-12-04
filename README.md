@@ -1,2 +1,2 @@
 # Amazon-Books-Classification
-Amazon Books Classification on the basis of users preferences
+Amazon Books Classification on the basis of users preferences.
